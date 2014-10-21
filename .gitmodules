@@ -16,3 +16,6 @@
 [submodule "cobra"]
 	path = cobra
 	url = git://github.com/SP2LC/cobra.git
+[submodule "procon25-main"]
+	path = procon25-main
+	url = git://github.com/SP2LC/procon25-main.git
