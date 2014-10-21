@@ -1,0 +1,15 @@
+[submodule "ImageShuffle"]
+	path = ImageShuffle
+	url = git://github.com/SP2LC/ImageShuffle.git
+[submodule "procon25-test-server"]
+	path = procon25-test-server
+	url = git://github.com/SP2LC/procon25-test-server.git
+[submodule "answerTest"]
+	path = answerTest
+	url = git://github.com/SP2LC/answerTest.git
+[submodule "procon25-ProblemReader"]
+	path = procon25-ProblemReader
+	url = git://github.com/SP2LC/procon25-ProblemReader.git
+[submodule "prob25_fileuploader"]
+	path = prob25_fileuploader
+	url = git://github.com/SP2LC/prob25_fileuploader
