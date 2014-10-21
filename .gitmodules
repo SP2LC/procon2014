@@ -13,3 +13,6 @@
 [submodule "prob25_fileuploader"]
 	path = prob25_fileuploader
 	url = git://github.com/SP2LC/prob25_fileuploader
+[submodule "cobra"]
+	path = cobra
+	url = git://github.com/SP2LC/cobra.git
